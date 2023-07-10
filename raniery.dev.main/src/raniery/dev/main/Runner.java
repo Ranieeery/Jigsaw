@@ -1,6 +1,8 @@
 package raniery.dev.main;
 
 
+import raniery.dev.utils.operations.Calc;
+
 public class Runner {
     public static void main(String[] args) {
         Calc calc = new Calc();
