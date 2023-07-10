@@ -1,9 +1,9 @@
-package dev.raniery.operations;
+package raniery.dev.utils.operations;
 
-import dev.raniery.operations.internal.Div;
-import dev.raniery.operations.internal.Mult;
-import dev.raniery.operations.internal.Sub;
-import dev.raniery.operations.internal.Sum;
+import raniery.dev.utils.operations.internal.Div;
+import raniery.dev.utils.operations.internal.Mult;
+import raniery.dev.utils.operations.internal.Sub;
+import raniery.dev.utils.operations.internal.Sum;
 
 public class Calc {
     private Sum sumHelper;

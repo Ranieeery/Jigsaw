@@ -1,6 +1,4 @@
-package dev.raniery.operations.internal;
-
-import dev.raniery.operations.CalcAble;
+package raniery.dev.utils.operations.internal;
 
 public class Sum implements CalcAble {
     @Override
